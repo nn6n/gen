@@ -13,7 +13,7 @@
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.1",
     "@tanstack/react-form": "^1.2.4",
-    "@types/react": "19.1.0",
+    "@types/react": "19.1.2",
     "@types/react-dom": "19.1.1",
     "autoprefixer": "^10.4.21",
     "bcryptjs": "^3.0.2",
