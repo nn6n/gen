@@ -25,7 +25,7 @@
     "next": "15.2.4",
     "next-themes": "^0.4.6",
     "postcss": "^8.5.3",
-    "react": "19.1.0",
+    "react": "19.1.1",
     "react-dom": "19.1.0",
     "resend": "^4.2.0",
     "ronin": "^6.4.5",
